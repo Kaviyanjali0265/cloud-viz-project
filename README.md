@@ -107,8 +107,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Authors
 
-Kaviyanjali(https://github.com/Kaviyanjali0265)
-Kamala(https://github.com/Kamala0910)
+- Kaviyanjali(https://github.com/Kaviyanjali0265)
+- Kamala(https://github.com/Kamala0910)
 
 
 ## References
